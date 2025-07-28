@@ -13,3 +13,5 @@ I wrote a cpp program with OpenCV libraries.
 I also wrote a simple CUDA programs to start with.
 
 Select a T4 GPU in your Google Colab runtime and execute the CUDA program.
+
+Combine them both and speedup your OpenCV code.
