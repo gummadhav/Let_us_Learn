@@ -8,7 +8,7 @@ Ofcourse we can write Python code in Google Colab, but to be able to learn bare 
 15 years back when I started to learn OpenCV with a GPU I didn't have access to such easy setup. 
 Thanks to Google, learning is equalized. 
 
-I wrote a cpp program with OpenCV libraries.
+I wrote a cpp program with OpenCV libraries. Remember to put your input images in the folder attached to your notebook.
 
 I also wrote a simple CUDA programs to start with.
 
